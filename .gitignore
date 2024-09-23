@@ -2,13 +2,13 @@
 sessions/*
 
 # Allow the sessions folder
-!sessions/
+!sessions/.gitkeep
 
 # Ignore all files in the sessions folder
 convertedSessions/*
 
 # Allow the sessions folder
-!convertedSessions/
+!convertedSessions/.gitkeep
 
 # Ignore the dist folder
 dist/
