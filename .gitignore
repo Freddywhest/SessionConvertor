@@ -1,0 +1,31 @@
+# Ignore all files in the sessions folder
+sessions/*
+
+# Allow the sessions folder
+!sessions/
+
+# Ignore all files in the sessions folder
+convertedSessions/*
+
+# Allow the sessions folder
+!convertedSessions/
+
+# Ignore the dist folder
+dist/
+
+# Ignore the .env file
+.env
+
+# Ignore the node_modules folder
+node_modules/
+
+# Ignore the session_user_agents.json file
+session_user_agents.json
+
+simulate_device.json
+
+# Ignore the Push.bat
+Push.bat
+
+# Ignore all files ending with .session
+*.session
